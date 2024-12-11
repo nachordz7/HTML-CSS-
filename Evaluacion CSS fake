@@ -1,0 +1,55 @@
+(10 PUNTOS) ¿Qué etiqueta HTML se usa para crear un enlace a una dirección de correo electrónico?
+□ <a> ✅
+□ <link>
+□ <mail>
+□ <email>
+
+(5 PUNTOS) ¿Qué atributo HTML se usa para agregar un título a una imagen?
+□ title ✅
+□ alt
+□ name
+□ caption
+
+(5 PUNTOS) ¿Qué etiqueta HTML se usa para insertar una lista ordenada?
+□ <ul>
+□ <ol> ✅
+□ <li>
+□ <dl>
+
+(10 PUNTOS) ¿Cuál es la función de la etiqueta <nav> en HTML?
+□ Crear una barra de navegación ✅
+□ Crear un formulario
+□ Agrupar el contenido de una página
+□ Incluir imágenes en una página
+
+(10 PUNTOS) ¿Cómo se define un campo de tipo radio en HTML?
+□ <input type="checkbox">
+□ <input type="radio"> ✅
+□ <input type="button">
+□ <input type="text">
+
+(10 PUNTOS) ¿Cómo se crea un enlace a una página web en una nueva pestaña?
+□ <a href="url" target="_blank"> ✅
+□ <link href="url" rel="target="_blank">
+□ <a href="url" target="_new">
+□ <a href="url" target="tab">
+
+(15 PUNTOS) ¿Cómo se puede agregar un campo para seleccionar un archivo en un formulario HTML? (Escribe el código completo)
+<input type="file">
+
+(15 PUNTOS) Indicar verdadero o falso:
+(A) La etiqueta <header> se usa para definir la cabecera de un documento o sección. VERDADERO
+(B) La etiqueta <footer> se usa para crear un pie de página. VERDADERO 
+(C) El atributo href se usa para especificar la URL de un enlace. VERDADERO
+
+(10 PUNTOS) ¿Qué etiqueta HTML se utiliza para agrupar contenido en una sección?
+□ <section> ✅
+□ <div>
+□ <article>
+□ <header>
+
+(10 PUNTOS) ¿Qué atributo de la etiqueta <a> se usa para abrir el enlace en una ventana emergente?
+□ target="_blank" ✅
+□ open="_new"
+□ popup="_self"
+□ window="_new"
