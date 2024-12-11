@@ -1,0 +1,111 @@
+ ¿Cómo se cambia el color de fondo de un elemento con CSS?
+element {
+  ___background-color_____: red;
+}
+
+¿Cómo se cambia el tamaño de la fuente de un texto en CSS?
+element {
+  ___font-size______: 16px;
+}
+
+¿Qué propiedad CSS se utiliza para agregar una sombra en el texto?
+element {
+  ____text-shadow_____: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+ ¿Cómo se centra un elemento horizontalmente en su contenedor usando CSS?
+element {
+  ____margin____: auto;
+  width: 50%;
+}
+
+¿Cómo se cambia el color del borde de un elemento en CSS?
+element {
+  ___border-color______: blue;
+}
+
+¿Cómo se redondea el borde de un elemento en CSS?
+element {
+  ____border-radius___: 10px;
+}
+
+¿Cómo se crea un contenedor flexible con dirección de columna en CSS?
+.container {
+  ___display____: flex;
+  ____flex-direction_____: column;
+}
+
+Indica cuál es el comando adecuado para hacer lo siguiente:
+(A) Cambiar el tamaño de las letras de un párrafo.
+p {
+  ___font-size______: 18px;
+}
+
+(B) Cambiar el color de fondo de un elemento con una imagen.
+element {
+  ____background-image_____: url('background.jpg');
+}
+
+(C) Alinear el texto a la derecha dentro de un contenedor.
+element {
+  _____tex-align____: right;
+}
+
+---SEGUNDA PARTE---
+
+¿Cómo se agrega un margen externo de 20 píxeles a un elemento?
+element {
+  __margin___: 20px;
+}
+
+¿Cómo se define un ancho máximo de 100 píxeles para un elemento?
+element {
+  __max-width___: 100px;
+}
+
+¿Qué propiedad se usa para ocultar un elemento sin eliminarlo del flujo del documento?
+element {
+  ___visibility__: hidden;
+}
+
+¿Cómo se establece una altura fija de 200 píxeles para un elemento?
+element {
+  ___height__: 200px;
+}
+
+¿Cómo se establece un espaciado interno de 15 píxeles alrededor del contenido de un elemento?
+element {
+  __padding__: 15px;
+}
+
+Cómo se establece un borde sólido de 3 píxeles con color rojo?
+element {
+  __border___: 3px solid red;
+}
+
+¿Cómo se usa la propiedad grid para crear un diseño con 3 columnas?
+.container {
+  display: grid;
+  ___ grid-template-columns__: 1fr 1fr 1fr;
+}
+
+Indica cuál es el comando adecuado para lo siguiente:
+(A) Cambiar el estilo de las letras a cursiva.
+element {
+  __font-style: italic;
+}
+
+(B) Establecer el espaciado entre palabras a 5 píxeles.
+element {
+  ___ word-spacing__: 5px;
+}
+
+(C) Cambiar el tamaño de las letras en mayúsculas.
+element {
+  ___text-transform__: uppercase;
+}
+
+
+
+
+
