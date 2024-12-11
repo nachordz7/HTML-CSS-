@@ -1,0 +1,52 @@
+(10 PUNTOS) ¿Qué etiqueta HTML se usa para incluir un enlace a otra página web? 
+□ <link>
+□ <a> ✅
+□ <button>
+□ <url>
+
+(5 PUNTOS) ¿Qué propiedad CSS se utiliza para cambiar el color de un texto?
+□ text-color
+□ color  ✅
+□ font-color
+□ background-color
+
+(5 PUNTOS) ¿Qué propiedad CSS permite agregar un borde a un elemento? 
+□ border-radius 
+□ border-style
+□ border-width
+□ border  ✅
+
+(10 PUNTOS) ¿Qué es el modelo de caja (box model) en CSS? 
+□ La forma en que se estructuran los colores de fondo de los elementos. ✅
+□ El sistema para definir el espacio de un elemento y su contenido (márgenes, bordes, relleno y contenido).
+□ El contenedor donde se organizan las imágenes en una página web.
+□ Una técnica de animación para crear efectos de interactividad.
+
+(10 PUNTOS) ¿Cuál es la función de la etiqueta <form> en HTML? 
+□ Para crear un contenedor para imágenes.
+□ Para definir el formato de texto en una página.
+□ Para crear un formulario de entrada de datos. ✅
+□ Para agregar un video a una página web.
+
+(10 PUNTOS) ¿Cómo puedes hacer que un elemento ocupe el 50% del ancho de su contenedor en CSS? 
+□ width: 50%; ✅
+□ max-width: 50%; 
+□ height: 50%;
+□ min-width: 50%; 
+
+(15 PUNTOS) ¿Cómo puedes agregar una sombra a un texto usando CSS? (Escribe el código completo)
+text-shadow:
+
+(15 PUNTOS) Indicar verdadero o falso:
+(A) Un archivo HTML puede tener múltiples elementos <head>. FALSO
+(B) La propiedad flex se usa para crear un diseño de filas o columnas. VERDADERO
+(C) Los elementos con position: fixed se mueven con el desplazamiento de la página. VERDADERO
+
+(10 PUNTOS) ¿Cómo se puede incluir una imagen en una página HTML? 
+□ <img src="ruta-imagen.jpg"> ✅
+□ <image src="ruta-imagen.jpg">
+□ <picture src="ruta-imagen.jpg">
+□ <img url="ruta-imagen.jpg">
+
+(10 PUNTOS) ¿Qué hace la propiedad display: none; en CSS? (Escribe tu respuesta breve aquí)
+Oculta un elemento de la página, no lo muestra
