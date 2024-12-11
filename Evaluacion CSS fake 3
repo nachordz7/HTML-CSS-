@@ -1,0 +1,56 @@
+(10 PUNTOS) ¿Qué propiedad CSS se usa para cambiar el color de fondo de un elemento?
+□ background-color  ✅
+□ color
+□ bg-color
+□ background
+
+(5 PUNTOS) ¿Cómo se cambia el tamaño de la fuente de un texto en CSS?
+□ font-size ✅
+□ text-size
+□ font-style
+□ size
+
+(5 PUNTOS) ¿Qué propiedad CSS se usa para alinear el texto a la izquierda?
+□ text-align: left;  ✅
+□ align-text: left;
+□ text-left: true;
+□ text-align: center;
+
+(10 PUNTOS) ¿Qué propiedad CSS se usa para cambiar el color de los bordes de un elemento?
+□ border-color ✅
+□ color-border
+□ border-style
+□ border 
+
+(10 PUNTOS) ¿Cómo se cambia el tamaño de un borde en CSS?
+□ border-size ✅
+□ border-thickness
+□ border-width
+□ border-height
+
+(10 PUNTOS) ¿Qué propiedad CSS se utiliza para cambiar la opacidad de un elemento?
+□ opacity ✅
+□ opacity-level
+□ visibility
+□ transparent
+
+(15 PUNTOS) ¿Cómo puedes hacer que un elemento tenga un borde redondeado? (Escribe el código completo)
+border-radius: 10px ;
+
+(15 PUNTOS) Indicar verdadero o falso:
+(A) La propiedad margin controla el espacio dentro de un elemento. VERDADERO
+(B) La propiedad padding agrega espacio alrededor de un elemento. VERDADERO
+(C) La propiedad display: flex; es útil para crear diseños flexibles de filas o columnas. VERDADERO
+
+(10 PUNTOS) ¿Qué propiedad CSS se usa para crear una sombra en el texto?
+□ text-shadow ✅
+□ box-shadow 
+□ shadow
+□ shadow-text
+
+(10 PUNTOS) ¿Cómo se centra un elemento horizontalmente en su contenedor usando CSS?
+□ align: center;
+□ margin: auto;
+□ center: true;
+□ text-align: center; ✅
+
