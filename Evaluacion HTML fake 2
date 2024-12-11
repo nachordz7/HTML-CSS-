@@ -1,0 +1,53 @@
+(10 PUNTOS) ¿Qué etiqueta HTML se usa para insertar una imagen en una página web?
+□ <img>  ✅
+□ <image>
+□ <picture>
+□ <src>
+
+(5 PUNTOS) ¿Cómo se crea un enlace en HTML?
+□ <link>
+□ <a href="url"> ✅
+□ <button>
+□ <url>
+
+(5 PUNTOS) ¿Qué atributo se usa para especificar el destino de un enlace?
+□ href
+□ target ✅
+□ link
+□ url
+
+(10 PUNTOS) ¿Qué etiqueta HTML se usa para crear una tabla?
+□ <table>  ✅
+□ <thead>
+□ <tr> 
+□ <td> 
+
+(10 PUNTOS) ¿Cómo se agrupan los encabezados en una tabla HTML?
+□ <thead>  ✅
+□ <tr>
+□ <tfoot>
+□ <th> 
+
+(10 PUNTOS) ¿Cuál es el propósito de la etiqueta <form> en HTML?
+□ Crear un contenedor para el contenido
+□ Crear un formulario para ingresar datos ✅
+□ Agrupar elementos de estilo 
+□ Crear un contenedor para la navegación
+
+(15 PUNTOS) ¿Cómo se puede crear un campo de entrada de texto en un formulario HTML? (Escribe el código completo)
+<input type="text" name="campo">
+
+(15 PUNTOS) Indicar verdadero o falso:
+(A) La etiqueta <div> se utiliza para crear divisiones dentro de una página. VERDADERO
+(B) El atributo src se usa para definir el archivo de un enlace.  FALSO
+(C) La etiqueta <p> se usa para crear párrafos de texto. VERDADERO
+
+(10 PUNTOS) ¿Cómo se agrega un comentario en HTML?
+□ <!-- Comentario -->  ✅
+□ // Comentario
+□ # Comentario
+□ /* Comentario */
+
+(10 PUNTOS) ¿Qué hace la etiqueta <meta> en HTML? (Escribe tu respuesta breve aquí)
+La etiqueta <meta> proporciona metadatos sobre el documento HTML, como la codificación de caracteres o la descripción del contenido.)
+nose
