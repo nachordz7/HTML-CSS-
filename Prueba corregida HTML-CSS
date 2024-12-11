@@ -1,0 +1,56 @@
+1.(10 Puntos)Elegir todas las abreviaciones de Emmet para cread dos parrafos dentro de un <div> con clase info.
+div.info>p+p  ✅ 
+div#info>p+p
+div.info>p*2  ✅ 
+div.info+p+p
+
+2.(5 Puntos)Elegir todos los elementos vacios.
+<br>  ✅ 
+<a>
+<em> 
+<span>
+
+3.(5 Puntos)Elegir todos los elementos en linea.
+<br>  ✅ 
+<a>  ✅ 
+<em>  ✅ 
+<span>  ✅ 
+
+4.(10 Puntos)Elegir los selectores mas especificos.
+h1#brand   ✅ 
+.header .nav ul
+div.container > p.important
+#root + p  ✅ 
+
+5.(15 Puntos) Escribir en HTML la seccion principla de un sitio web que tenga a la izquierda un titulo, un parrafo breve
+y dos botones. A la derecha se muestra una imagen con el logo de la empresa.
+
+
+6.(10 Puntos) Escribir una regla en CSS para centrar horizontalmente un <div> que tiene un ancho de 100px.
+El <div> tiene una clase llamada centered.
+.centered {
+  margin: 0 auto;
+  width: 100px;
+}
+
+7.(10 Puntos) Escribir una regla en CSS para que los links dentro de un elemento nav no esten subrayados
+nav a {
+  text-decoration: none;
+}
+
+8.(10 Puntos) Escribir una regla en CSS para darle una sombra a todos los elementos con clase card.
+.card {
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+9.(15 Puntos) Un ___elemento ___ en HTML esta delimitado por dos etiquetas generalmente. En la etiqueta que ___abre ___ se pueden poner 
+atributos. Los atributos son pares que consisten en un nombre y un ___valor _____ encerrado en comillas dobles. Entre ambos se pone
+el simbolo ____igual_____
+
+
+10.(10 Puntos) Indicar verdadero o falso.
+A) En un formulario de HTML el atributo que define como se muestra y se comporta un elemento input es el atributo class _FALSO __
+B) Un selector de ID tiene mas especificidad que un estilo en linea _FALSO __
+
+
+
